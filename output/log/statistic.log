@@ -1,4 +1,7 @@
-Category: 📡卫视频道, Name: 广东卫视, Total: 4, Valid: 4, Valid Percent: 100.00%, Whitelist: 0, IPv4: 4, IPv6: 0, Min Delay: 11 ms, Max Speed: 154.29 M/s, Avg Speed: 77.29 M/s, Max Resolution: 1280x720
-Category: 📡卫视频道, Name: 广东体育, Total: 6, Valid: 6, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 4, Min Delay: 125 ms, Max Speed: 94.13 M/s, Avg Speed: 23.11 M/s, Max Resolution: None
-Category: 📡卫视频道, Name: 陕西卫视, Total: 5, Valid: 5, Valid Percent: 100.00%, Whitelist: 0, IPv4: 4, IPv6: 1, Min Delay: 58 ms, Max Speed: 14.76 M/s, Avg Speed: 3.65 M/s, Max Resolution: 720x576
-Category: 📡卫视频道, Name: 山西卫视, Total: 9, Valid: 9, Valid Percent: 100.00%, Whitelist: 0, IPv4: 4, IPv6: 5, Min Delay: 58 ms, Max Speed: 14.76 M/s, Avg Speed: 2.16 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 广东卫视, Total: 8, Valid: 8, Valid Percent: 100.00%, Whitelist: 0, IPv4: 6, IPv6: 2, Min Delay: 49 ms, Max Speed: 97.88 M/s, Avg Speed: 27.05 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 广东珠江, Total: 3, Valid: 3, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 2, Min Delay: 55 ms, Max Speed: 45.23 M/s, Avg Speed: 30.37 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 广东体育, Total: 5, Valid: 5, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 4, Min Delay: 55 ms, Max Speed: 52.94 M/s, Avg Speed: 40.94 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 广东珠江超清, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 55 ms, Max Speed: 45.23 M/s, Avg Speed: 22.95 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 广东珠江高清, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 55 ms, Max Speed: 45.23 M/s, Avg Speed: 22.95 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 陕西卫视, Total: 18, Valid: 18, Valid Percent: 100.00%, Whitelist: 0, IPv4: 6, IPv6: 12, Min Delay: 36 ms, Max Speed: 52.94 M/s, Avg Speed: 9.17 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 山西卫视, Total: 8, Valid: 8, Valid Percent: 100.00%, Whitelist: 0, IPv4: 3, IPv6: 5, Min Delay: 36 ms, Max Speed: 52.94 M/s, Avg Speed: 7.36 M/s, Max Resolution: 1920x1080
