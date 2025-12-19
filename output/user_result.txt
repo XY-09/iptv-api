@@ -1,9 +1,19 @@
 🕘️更新时间,#genre#
-2025-12-17 18:52:58,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4$订阅源
+2025-12-19 18:19:43,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4$订阅源
 
 📡卫视频道,#genre#
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4$订阅源
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4$订阅源
+广东公共,http://120.238.94.10:9901/tsfile/live/1011_1.m3u8$订阅源
+广东公共,http://120.238.94.10:9901/tsfile/live/1011_1.m3u8$订阅源
+广东影视,http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E4%B8%9C%E5%BD%B1%E8%A7%86&auth=666858$订阅源
+广东影视,http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E4%B8%9C%E5%BD%B1%E8%A7%86&auth=666858$订阅源
+广东少儿,http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E4%B8%9C%E5%B0%91%E5%84%BF&auth=666858$订阅源
+岭南戏曲,http://yp.qqqtv.top/1/api.php?id=%E5%B2%AD%E5%8D%97%E6%88%8F%E6%9B%B2&auth=666858$订阅源
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8$订阅源
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8$订阅源
+陕西卫视,http://yp.qqqtv.top/bc/bc.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&auth=66615415$订阅源
+陕西卫视,http://yp.qqqtv.top/1/api.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&auth=666858$订阅源
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8$订阅源
+山西卫视,http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86HD&auth=666858$订阅源
+山西卫视,http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86&auth=666858$订阅源
