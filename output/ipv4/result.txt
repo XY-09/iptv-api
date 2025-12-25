@@ -1,13 +1,13 @@
 🕘️更新时间,#genre#
-2025-12-23 18:20:22,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4$订阅源
+2025-12-25 18:19:27,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4$订阅源
 
 📡卫视频道,#genre#
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4$订阅源
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4$订阅源
-广东公共,http://111.221.137.155:44330/tsfile/live/0127_1.m3u8?key=txiptv$订阅源
-广东公共,http://111.221.137.155:44330/tsfile/live/0127_1.m3u8?key=txiptv$订阅源
 广东公共,http://120.238.94.10:9901/tsfile/live/1011_1.m3u8$订阅源
 广东公共,http://120.238.94.10:9901/tsfile/live/1011_1.m3u8$订阅源
+广东公共,http://111.221.137.155:44330/tsfile/live/0127_1.m3u8?key=txiptv$订阅源
+广东公共,http://111.221.137.155:44330/tsfile/live/0127_1.m3u8?key=txiptv$订阅源
 广东少儿,http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E4%B8%9C%E5%B0%91%E5%84%BF&auth=666858$订阅源
 广东少儿,http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E4%B8%9C%E5%B0%91%E5%84%BF&auth=666858$订阅源
 嘉佳卡通,http://yp.qqqtv.top/1/api.php?id=%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A&auth=666858$订阅源
