@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260217104103 +0800">
+<tv date="20260219103906 +0800">
 	<channel id="山西卫视">
 		<display-name lang="zh">山西卫视</display-name>
 	</channel>
@@ -579,571 +579,586 @@
 	<channel id="广东体育">
 		<display-name lang="zh">广东体育</display-name>
 	</channel>
-	<programme channel="广东体育" start="20260217000000 +0800" stop="20260217002445 +0800">
+	<programme channel="广东体育" start="20260219000000 +0800" stop="20260219002630 +0800">
 		<title lang="zh">精彩呈现</title>
 	</programme>
-	<programme channel="广东体育" start="20260217002445 +0800" stop="20260217011700 +0800">
-		<title lang="zh">重播跃马扬鞭体育燃情荣耀时刻第十五届全国运动会跳水项目精选女子个人全能决赛</title>
+	<programme channel="广东体育" start="20260219002630 +0800" stop="20260219011800 +0800">
+		<title lang="zh">首播跃马扬鞭体育燃情荣耀时刻第十五届全国运动会体操青年组精选女子团体决赛</title>
 	</programme>
-	<programme channel="广东体育" start="20260217011730 +0800" stop="20260217011900 +0800">
-		<title lang="zh">重播广东荣耀(1)十五运田径4X100米混合接力金牌</title>
+	<programme channel="广东体育" start="20260219011830 +0800" stop="20260219024800 +0800">
+		<title lang="zh">重播2026澳大利亚网球公开赛精选男单半决赛(1)</title>
 	</programme>
-	<programme channel="广东体育" start="20260217011930 +0800" stop="20260217012100 +0800">
-		<title lang="zh">重播广东荣耀(5)十五运广东跳水女子团体金牌</title>
+	<programme channel="广东体育" start="20260219024830 +0800" stop="20260219034000 +0800">
+		<title lang="zh">重播荣耀时刻第十五届全国运动会精选篮球男子成年组半决赛广东vs辽宁</title>
 	</programme>
-	<programme channel="广东体育" start="20260217012130 +0800" stop="20260217025100 +0800">
-		<title lang="zh">重播2026澳大利亚网球公开赛精选女单决赛</title>
+	<programme channel="广东体育" start="20260219034030 +0800" stop="20260219043000 +0800">
+		<title lang="zh">重播第十五届全国运动会跆拳道项目精选(1)男子58公斤级半决赛决赛(广东黄科奋夺冠)</title>
 	</programme>
-	<programme channel="广东体育" start="20260217025130 +0800" stop="20260217034300 +0800">
-		<title lang="zh">重播荣耀时刻第十五届全国运动会精选田径多项</title>
+	<programme channel="广东体育" start="20260219043030 +0800" stop="20260219044000 +0800">
+		<title lang="zh">重播全运回眸(6)</title>
 	</programme>
-	<programme channel="广东体育" start="20260217034330 +0800" stop="20260217043900 +0800">
-		<title lang="zh">重播荣耀时刻第十五届全国运动会精选射箭男女团体反曲弓14决赛</title>
+	<programme channel="广东体育" start="20260219044030 +0800" stop="20260219054300 +0800">
+		<title lang="zh">重播跃马扬鞭体育燃情2526CBA赛场第11轮广州朗肽海本vs新疆伊力特</title>
 	</programme>
-	<programme channel="广东体育" start="20260217043930 +0800" stop="20260217054300 +0800">
-		<title lang="zh">重播跃马扬鞭体育燃情2526CBA赛场第13轮辽宁本钢vs广东东阳光</title>
-	</programme>
-	<programme channel="广东体育" start="20260217054300 +0800" stop="20260217060300 +0800">
-		<title lang="zh">重播逐梦十五运(1)</title>
-	</programme>
-	<programme channel="广东体育" start="20260217060300 +0800" stop="20260217061300 +0800">
-		<title lang="zh">重播荣耀时刻第十五届全国运动会精选版田径项目</title>
-	</programme>
-	<programme channel="广东体育" start="20260217061300 +0800" stop="20260217070500 +0800">
-		<title lang="zh">重播第十五届全国运动会女子手球项目精选半决赛安徽vs广东</title>
-	</programme>
-	<programme channel="广东体育" start="20260217070500 +0800" stop="20260217073600 +0800">
-		<title lang="zh">重播德甲精选(252618)</title>
-	</programme>
-	<programme channel="广东体育" start="20260217073600 +0800" stop="20260217074000 +0800">
-		<title lang="zh">重播广东荣耀(1)十五运田径4X100米混合接力金牌</title>
-	</programme>
-	<programme channel="广东体育" start="20260217074000 +0800" stop="20260217074200 +0800">
-		<title lang="zh">重播广东荣耀(3)十五运花样游泳女子双人项目金牌</title>
-	</programme>
-	<programme channel="广东体育" start="20260217074200 +0800" stop="20260217074600 +0800">
-		<title lang="zh">重播广东荣耀(4)十五运田径女子400米栏金牌莫家蝶</title>
-	</programme>
-	<programme channel="广东体育" start="20260217074600 +0800" stop="20260217074800 +0800">
-		<title lang="zh">重播广东荣耀(6)十五运广东跳水男子团体</title>
-	</programme>
-	<programme channel="广东体育" start="20260217074800 +0800" stop="20260217084100 +0800">
-		<title lang="zh">重播荣耀时刻第十五届全国运动会跳水项目精选男团决赛</title>
-	</programme>
-	<programme channel="广东体育" start="20260217084100 +0800" stop="20260217084300 +0800">
-		<title lang="zh">重播广东荣耀(8)十五运体操全能冠军柯沁沁</title>
-	</programme>
-	<programme channel="广东体育" start="20260217084300 +0800" stop="20260217094100 +0800">
-		<title lang="zh">重播跃马扬鞭体育燃情荣耀时刻第十五届全国运动会跳水项目精选女子个人全能决赛</title>
-	</programme>
-	<programme channel="广东体育" start="20260217094100 +0800" stop="20260217094700 +0800">
-		<title lang="zh">重播广东荣耀(3)十五运花样游泳女子双人项目金牌</title>
-	</programme>
-	<programme channel="广东体育" start="20260217094700 +0800" stop="20260217104700 +0800">
-		<title lang="zh">重播行走十五运(5)(云浮肇庆篇)</title>
-	</programme>
-	<programme channel="广东体育" start="20260217104700 +0800" stop="20260217105000 +0800">
-		<title lang="zh">重播广东荣耀(1)十五运田径4X100米混合接力金牌</title>
-	</programme>
-	<programme channel="广东体育" start="20260217105000 +0800" stop="20260217110800 +0800">
+	<programme channel="广东体育" start="20260219054300 +0800" stop="20260219060100 +0800">
 		<title lang="zh">重播逐梦十五运(3)</title>
 	</programme>
-	<programme channel="广东体育" start="20260217110800 +0800" stop="20260217111000 +0800">
-		<title lang="zh">重播广东荣耀(5)十五运广东跳水女子团体金牌</title>
+	<programme channel="广东体育" start="20260219060100 +0800" stop="20260219061300 +0800">
+		<title lang="zh">重播全运回眸(7)</title>
 	</programme>
-	<programme channel="广东体育" start="20260217111000 +0800" stop="20260217111700 +0800">
-		<title lang="zh">首播广东体育城势访谈录(3)</title>
+	<programme channel="广东体育" start="20260219061300 +0800" stop="20260219070500 +0800">
+		<title lang="zh">重播第十五届全国运动会跆拳道项目精选(2)男子80公斤以上级铜牌赛决赛67公斤以上级决赛</title>
 	</programme>
-	<programme channel="广东体育" start="20260217111730 +0800" stop="20260217120000 +0800">
-		<title lang="zh">首播智造全运湾区引擎(3)竞技体育背后的科技陪伴</title>
+	<programme channel="广东体育" start="20260219070500 +0800" stop="20260219074600 +0800">
+		<title lang="zh">重播德甲精选(252620)</title>
 	</programme>
-	<programme channel="广东体育" start="20260217120030 +0800" stop="20260217120400 +0800">
-		<title lang="zh">首播MV2026体育向前走</title>
-	</programme>
-	<programme channel="广东体育" start="20260217120400 +0800" stop="20260217130000 +0800">
-		<title lang="zh">重播出奇智胜(806)</title>
-	</programme>
-	<programme channel="广东体育" start="20260217130000 +0800" stop="20260217130200 +0800">
-		<title lang="zh">重播广东荣耀(1)十五运田径4X100米混合接力金牌</title>
-	</programme>
-	<programme channel="广东体育" start="20260217130200 +0800" stop="20260217130500 +0800">
-		<title lang="zh">首播门神守脉文武双全(3)(茂名肇庆)</title>
-	</programme>
-	<programme channel="广东体育" start="20260217130530 +0800" stop="20260217130900 +0800">
-		<title lang="zh">首播门神守脉文武双全(4)(广州佛山)</title>
-	</programme>
-	<programme channel="广东体育" start="20260217130900 +0800" stop="20260217140200 +0800">
-		<title lang="zh">首播跃马扬鞭体育燃情2526CBA赛场第11轮广州朗肽海本vs新疆伊力特</title>
-	</programme>
-	<programme channel="广东体育" start="20260217140200 +0800" stop="20260217140400 +0800">
-		<title lang="zh">重播广东荣耀(10)十五运男子双人3米跳板谢思埸黄博文</title>
-	</programme>
-	<programme channel="广东体育" start="20260217140400 +0800" stop="20260217152700 +0800">
-		<title lang="zh">首播跃马扬鞭体育燃情荣耀时刻第十五届全国运动会精选跳水男子双人三米跳板决赛</title>
-	</programme>
-	<programme channel="广东体育" start="20260217152700 +0800" stop="20260217153000 +0800">
+	<programme channel="广东体育" start="20260219074630 +0800" stop="20260219074800 +0800">
 		<title lang="zh">重播广东荣耀(3)十五运花样游泳女子双人项目金牌</title>
 	</programme>
-	<programme channel="广东体育" start="20260217153000 +0800" stop="20260217154000 +0800">
-		<title lang="zh">首播全运回眸(7)</title>
-	</programme>
-	<programme channel="广东体育" start="20260217154000 +0800" stop="20260217160700 +0800">
-		<title lang="zh">重播荣耀时刻第十五届全国运动会精选滑板女子碗池赛决赛</title>
-	</programme>
-	<programme channel="广东体育" start="20260217160700 +0800" stop="20260217161200 +0800">
-		<title lang="zh">重播广东体育频道铸造体育电视行业新标杆</title>
-	</programme>
-	<programme channel="广东体育" start="20260217161230 +0800" stop="20260217161400 +0800">
-		<title lang="zh">重播广东荣耀(2)十五运男篮成年组金牌2039</title>
-	</programme>
-	<programme channel="广东体育" start="20260217161430 +0800" stop="20260217161800 +0800">
-		<title lang="zh">重播MV2026体育向前走</title>
-	</programme>
-	<programme channel="广东体育" start="20260217161800 +0800" stop="20260217172200 +0800">
-		<title lang="zh">重播行走十五运(2)(佛山东莞篇)</title>
-	</programme>
-	<programme channel="广东体育" start="20260217172200 +0800" stop="20260217172500 +0800">
-		<title lang="zh">重播广东荣耀(9)十五运田径女子100米栏刘景扬</title>
-	</programme>
-	<programme channel="广东体育" start="20260217172500 +0800" stop="20260217174600 +0800">
-		<title lang="zh">重播逐梦十五运(1)</title>
-	</programme>
-	<programme channel="广东体育" start="20260217174600 +0800" stop="20260217185700 +0800">
-		<title lang="zh">重播大家小家(3)</title>
-	</programme>
-	<programme channel="广东体育" start="20260217185700 +0800" stop="20260217195600 +0800">
-		<title lang="zh">首播跃马扬鞭体育燃情2526CBA赛场第12轮广东东阳光vs深圳马可波罗</title>
-	</programme>
-	<programme channel="广东体育" start="20260217195600 +0800" stop="20260217200000 +0800">
-		<title lang="zh">重播MV2026体育向前走</title>
-	</programme>
-	<programme channel="广东体育" start="20260217200030 +0800" stop="20260217205500 +0800">
-		<title lang="zh">首播跃马扬鞭体育燃情荣耀时刻第十五届全国运动会跳水项目精选女团决赛</title>
-	</programme>
-	<programme channel="广东体育" start="20260217205530 +0800" stop="20260217215000 +0800">
-		<title lang="zh">首播跃马扬鞭体育燃情2526CBA赛场第14轮深圳马可波罗vs上海久事</title>
-	</programme>
-	<programme channel="广东体育" start="20260217215030 +0800" stop="20260217215300 +0800">
+	<programme channel="广东体育" start="20260219074830 +0800" stop="20260219075000 +0800">
 		<title lang="zh">重播广东荣耀(2)十五运男篮成年组金牌</title>
 	</programme>
-	<programme channel="广东体育" start="20260217215330 +0800" stop="20260217231900 +0800">
-		<title lang="zh">首播出奇智胜(807)</title>
-	</programme>
-	<programme channel="广东体育" start="20260217231930 +0800" stop="20260217232700 +0800">
-		<title lang="zh">重播广东体育城势访谈录(3)</title>
-	</programme>
-	<programme channel="广东体育" start="20260217232700 +0800" stop="20260217235959 +0800">
+	<programme channel="广东体育" start="20260219075030 +0800" stop="20260219084500 +0800">
 		<title lang="zh">重播跃马扬鞭体育燃情荣耀时刻第十五届全国运动会精选篮球男子成年组决赛浙江vs广东</title>
+	</programme>
+	<programme channel="广东体育" start="20260219084530 +0800" stop="20260219094300 +0800">
+		<title lang="zh">重播荣耀时刻第十五届全国运动会精选网球男单决赛商峻程vs吴易昺</title>
+	</programme>
+	<programme channel="广东体育" start="20260219094330 +0800" stop="20260219094500 +0800">
+		<title lang="zh">重播广东荣耀(6)十五运广东跳水男子团体</title>
+	</programme>
+	<programme channel="广东体育" start="20260219094530 +0800" stop="20260219094800 +0800">
+		<title lang="zh">重播广东荣耀(7)十五运篮球女子成年组金牌</title>
+	</programme>
+	<programme channel="广东体育" start="20260219094830 +0800" stop="20260219104800 +0800">
+		<title lang="zh">重播行走十五运(1)广州篇</title>
+	</programme>
+	<programme channel="广东体育" start="20260219104830 +0800" stop="20260219111000 +0800">
+		<title lang="zh">重播逐梦十五运(5)</title>
+	</programme>
+	<programme channel="广东体育" start="20260219111000 +0800" stop="20260219111700 +0800">
+		<title lang="zh">首播广东体育城势访谈录(5)</title>
+	</programme>
+	<programme channel="广东体育" start="20260219111730 +0800" stop="20260219120000 +0800">
+		<title lang="zh">首播智造全运湾区引擎(5)智慧出行</title>
+	</programme>
+	<programme channel="广东体育" start="20260219120030 +0800" stop="20260219125600 +0800">
+		<title lang="zh">重播出奇智胜(808)</title>
+	</programme>
+	<programme channel="广东体育" start="20260219125630 +0800" stop="20260219125800 +0800">
+		<title lang="zh">重播广东荣耀(5)十五运广东跳水女子团体金牌</title>
+	</programme>
+	<programme channel="广东体育" start="20260219125830 +0800" stop="20260219130300 +0800">
+		<title lang="zh">首播门神守脉文武双全(7)(湛江汕尾深圳)</title>
+	</programme>
+	<programme channel="广东体育" start="20260219130330 +0800" stop="20260219130700 +0800">
+		<title lang="zh">重播MV2026体育向前走</title>
+	</programme>
+	<programme channel="广东体育" start="20260219130700 +0800" stop="20260219140000 +0800">
+		<title lang="zh">重播跃马扬鞭体育燃情2526CBA赛场第10轮天津先行者vs广州朗肽海本</title>
+	</programme>
+	<programme channel="广东体育" start="20260219140000 +0800" stop="20260219152300 +0800">
+		<title lang="zh">重播跃马扬鞭体育燃情荣耀时刻第十五届全国运动会体操青年组精选女子团体决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20260219152300 +0800" stop="20260219152600 +0800">
+		<title lang="zh">重播广东荣耀(10)十五运男子双人3米跳板谢思埸黄博文</title>
+	</programme>
+	<programme channel="广东体育" start="20260219152600 +0800" stop="20260219153600 +0800">
+		<title lang="zh">首播全运回眸(9)</title>
+	</programme>
+	<programme channel="广东体育" start="20260219153600 +0800" stop="20260219160800 +0800">
+		<title lang="zh">重播荣耀时刻第十五届全国运动会精选男足U20决赛广东vs湖北</title>
+	</programme>
+	<programme channel="广东体育" start="20260219160830 +0800" stop="20260219161200 +0800">
+		<title lang="zh">重播广东荣耀(3)十五运花样游泳女子双人项目金牌</title>
+	</programme>
+	<programme channel="广东体育" start="20260219161230 +0800" stop="20260219161400 +0800">
+		<title lang="zh">重播广东荣耀(4)十五运田径女子400米栏金牌莫家蝶</title>
+	</programme>
+	<programme channel="广东体育" start="20260219161430 +0800" stop="20260219162400 +0800">
+		<title lang="zh">重播全运回眸(8)</title>
+	</programme>
+	<programme channel="广东体育" start="20260219162430 +0800" stop="20260219172200 +0800">
+		<title lang="zh">重播行走十五运(7)(中山篇)</title>
+	</programme>
+	<programme channel="广东体育" start="20260219172230 +0800" stop="20260219172500 +0800">
+		<title lang="zh">重播广东荣耀(9)十五运田径女子100米栏刘景扬</title>
+	</programme>
+	<programme channel="广东体育" start="20260219172530 +0800" stop="20260219174600 +0800">
+		<title lang="zh">重播逐梦十五运(4)</title>
+	</programme>
+	<programme channel="广东体育" start="20260219174630 +0800" stop="20260219175000 +0800">
+		<title lang="zh">重播MV2026体育向前走</title>
+	</programme>
+	<programme channel="广东体育" start="20260219175000 +0800" stop="20260219180200 +0800">
+		<title lang="zh">首播门神守脉文武双全(8)(汕头揭阳江门)</title>
+	</programme>
+	<programme channel="广东体育" start="20260219180200 +0800" stop="20260219190000 +0800">
+		<title lang="zh">重播珠江少年派(2)</title>
+	</programme>
+	<programme channel="广东体育" start="20260219190000 +0800" stop="20260219192900 +0800">
+		<title lang="zh">首播体育世界20039</title>
+	</programme>
+	<programme channel="广东体育" start="20260219192930 +0800" stop="20260219202600 +0800">
+		<title lang="zh">首播跃马扬鞭体育燃情2526CBA赛场第19轮广东东阳光vs山西汾酒</title>
+	</programme>
+	<programme channel="广东体育" start="20260219202630 +0800" stop="20260219202800 +0800">
+		<title lang="zh">重播广东荣耀(8)十五运体操全能冠军柯沁沁</title>
+	</programme>
+	<programme channel="广东体育" start="20260219202830 +0800" stop="20260219212400 +0800">
+		<title lang="zh">首播跃马扬鞭体育燃情荣耀时刻第十五届全国运动会精选体操青年组女子个人全能高低杠平衡木跳马全能</title>
+	</programme>
+	<programme channel="广东体育" start="20260219212430 +0800" stop="20260219214200 +0800">
+		<title lang="zh">重播逐梦十五运(3)</title>
+	</programme>
+	<programme channel="广东体育" start="20260219214230 +0800" stop="20260219214900 +0800">
+		<title lang="zh">重播全运粤章超越金彩</title>
+	</programme>
+	<programme channel="广东体育" start="20260219214930 +0800" stop="20260219215300 +0800">
+		<title lang="zh">重播广东荣耀(10)十五运男子双人3米跳板谢思埸黄博文</title>
+	</programme>
+	<programme channel="广东体育" start="20260219215330 +0800" stop="20260219231900 +0800">
+		<title lang="zh">首播出奇智胜(809)</title>
+	</programme>
+	<programme channel="广东体育" start="20260219231930 +0800" stop="20260219232700 +0800">
+		<title lang="zh">重播广东体育城势访谈录(5)</title>
+	</programme>
+	<programme channel="广东体育" start="20260219232700 +0800" stop="20260219235959 +0800">
+		<title lang="zh">重播跃马扬鞭体育燃情荣耀时刻第十五届全国运动会体操青年组精选女子团体决赛</title>
 	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
-	<programme channel="嘉佳卡通" start="20260217000000 +0800" stop="20260217000500 +0800">
-		<title lang="zh">喜羊羊狂野新宇宙(1)</title>
+	<programme channel="嘉佳卡通" start="20260219000000 +0800" stop="20260219000300 +0800">
+		<title lang="zh">开始</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217000500 +0800" stop="20260217001700 +0800">
-		<title lang="zh">喜羊羊狂野新宇宙(2)</title>
+	<programme channel="嘉佳卡通" start="20260219000300 +0800" stop="20260219001500 +0800">
+		<title lang="zh">喜羊羊狂野新宇宙(51)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217001700 +0800" stop="20260217002900 +0800">
-		<title lang="zh">喜羊羊狂野新宇宙(3)</title>
+	<programme channel="嘉佳卡通" start="20260219001500 +0800" stop="20260219002700 +0800">
+		<title lang="zh">喜羊羊狂野新宇宙(52)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217002900 +0800" stop="20260217004100 +0800">
-		<title lang="zh">喜羊羊狂野新宇宙(4)</title>
+	<programme channel="嘉佳卡通" start="20260219002700 +0800" stop="20260219003900 +0800">
+		<title lang="zh">喜羊羊狂野新宇宙(53)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217004100 +0800" stop="20260217005300 +0800">
-		<title lang="zh">喜羊羊狂野新宇宙(5)</title>
+	<programme channel="嘉佳卡通" start="20260219003900 +0800" stop="20260219005100 +0800">
+		<title lang="zh">喜羊羊狂野新宇宙(54)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217005300 +0800" stop="20260217010500 +0800">
-		<title lang="zh">喜羊羊狂野新宇宙(6)</title>
+	<programme channel="嘉佳卡通" start="20260219005100 +0800" stop="20260219010300 +0800">
+		<title lang="zh">喜羊羊狂野新宇宙(55)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217010500 +0800" stop="20260217011700 +0800">
-		<title lang="zh">喜羊羊狂野新宇宙(7)</title>
+	<programme channel="嘉佳卡通" start="20260219010300 +0800" stop="20260219011500 +0800">
+		<title lang="zh">喜羊羊狂野新宇宙(56)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217011700 +0800" stop="20260217012900 +0800">
-		<title lang="zh">喜羊羊狂野新宇宙(8)</title>
+	<programme channel="嘉佳卡通" start="20260219011500 +0800" stop="20260219012700 +0800">
+		<title lang="zh">喜羊羊狂野新宇宙(57)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217012900 +0800" stop="20260217014100 +0800">
-		<title lang="zh">喜羊羊狂野新宇宙(9)</title>
+	<programme channel="嘉佳卡通" start="20260219012700 +0800" stop="20260219013900 +0800">
+		<title lang="zh">喜羊羊狂野新宇宙(58)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217014100 +0800" stop="20260217015300 +0800">
-		<title lang="zh">喜羊羊狂野新宇宙(10)</title>
+	<programme channel="嘉佳卡通" start="20260219013900 +0800" stop="20260219015100 +0800">
+		<title lang="zh">喜羊羊狂野新宇宙(59)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217015300 +0800" stop="20260217020500 +0800">
-		<title lang="zh">喜羊羊狂野新宇宙(11)</title>
+	<programme channel="嘉佳卡通" start="20260219015100 +0800" stop="20260219020400 +0800">
+		<title lang="zh">喜羊羊狂野新宇宙(60)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217020500 +0800" stop="20260217021700 +0800">
-		<title lang="zh">喜羊羊狂野新宇宙(12)</title>
+	<programme channel="嘉佳卡通" start="20260219020400 +0800" stop="20260219021700 +0800">
+		<title lang="zh">喜羊羊奇侠大营救(1)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217021700 +0800" stop="20260217022900 +0800">
-		<title lang="zh">喜羊羊狂野新宇宙(13)</title>
+	<programme channel="嘉佳卡通" start="20260219021700 +0800" stop="20260219022900 +0800">
+		<title lang="zh">喜羊羊奇侠大营救(2)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217022900 +0800" stop="20260217024100 +0800">
-		<title lang="zh">喜羊羊狂野新宇宙(14)</title>
+	<programme channel="嘉佳卡通" start="20260219022900 +0800" stop="20260219024100 +0800">
+		<title lang="zh">喜羊羊奇侠大营救(3)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217024100 +0800" stop="20260217025300 +0800">
-		<title lang="zh">喜羊羊狂野新宇宙(15)</title>
+	<programme channel="嘉佳卡通" start="20260219024100 +0800" stop="20260219025400 +0800">
+		<title lang="zh">喜羊羊奇侠大营救(4)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217025300 +0800" stop="20260217030500 +0800">
-		<title lang="zh">喜羊羊狂野新宇宙(16)</title>
+	<programme channel="嘉佳卡通" start="20260219025400 +0800" stop="20260219030600 +0800">
+		<title lang="zh">喜羊羊奇侠大营救(5)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217030500 +0800" stop="20260217031700 +0800">
-		<title lang="zh">喜羊羊狂野新宇宙(17)</title>
+	<programme channel="嘉佳卡通" start="20260219030600 +0800" stop="20260219031800 +0800">
+		<title lang="zh">喜羊羊奇侠大营救(6)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217031700 +0800" stop="20260217032900 +0800">
-		<title lang="zh">喜羊羊狂野新宇宙(18)</title>
+	<programme channel="嘉佳卡通" start="20260219031800 +0800" stop="20260219033100 +0800">
+		<title lang="zh">喜羊羊奇侠大营救(7)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217032900 +0800" stop="20260217034100 +0800">
-		<title lang="zh">喜羊羊狂野新宇宙(19)</title>
+	<programme channel="嘉佳卡通" start="20260219033100 +0800" stop="20260219034300 +0800">
+		<title lang="zh">喜羊羊奇侠大营救(8)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217034100 +0800" stop="20260217035300 +0800">
-		<title lang="zh">喜羊羊狂野新宇宙(20)</title>
+	<programme channel="嘉佳卡通" start="20260219034300 +0800" stop="20260219035500 +0800">
+		<title lang="zh">喜羊羊奇侠大营救(9)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217035300 +0800" stop="20260217040000 +0800">
-		<title lang="zh">喜羊羊狂野新宇宙(21)</title>
+	<programme channel="嘉佳卡通" start="20260219035500 +0800" stop="20260219040000 +0800">
+		<title lang="zh">喜羊羊奇侠大营救(10)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217040000 +0800" stop="20260217040500 +0800">
-		<title lang="zh">喜羊羊狂野新宇宙(21)</title>
+	<programme channel="嘉佳卡通" start="20260219040000 +0800" stop="20260219040800 +0800">
+		<title lang="zh">喜羊羊奇侠大营救(10)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217040500 +0800" stop="20260217041700 +0800">
-		<title lang="zh">喜羊羊狂野新宇宙(22)</title>
+	<programme channel="嘉佳卡通" start="20260219040800 +0800" stop="20260219042000 +0800">
+		<title lang="zh">喜羊羊奇侠大营救(11)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217041700 +0800" stop="20260217042900 +0800">
-		<title lang="zh">喜羊羊狂野新宇宙(23)</title>
+	<programme channel="嘉佳卡通" start="20260219042000 +0800" stop="20260219043200 +0800">
+		<title lang="zh">喜羊羊奇侠大营救(12)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217042900 +0800" stop="20260217044100 +0800">
-		<title lang="zh">喜羊羊狂野新宇宙(24)</title>
+	<programme channel="嘉佳卡通" start="20260219043200 +0800" stop="20260219044500 +0800">
+		<title lang="zh">喜羊羊奇侠大营救(13)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217044100 +0800" stop="20260217045300 +0800">
-		<title lang="zh">喜羊羊狂野新宇宙(25)</title>
+	<programme channel="嘉佳卡通" start="20260219044500 +0800" stop="20260219045700 +0800">
+		<title lang="zh">喜羊羊奇侠大营救(14)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217045300 +0800" stop="20260217050500 +0800">
-		<title lang="zh">喜羊羊狂野新宇宙(26)</title>
+	<programme channel="嘉佳卡通" start="20260219045700 +0800" stop="20260219050900 +0800">
+		<title lang="zh">喜羊羊奇侠大营救(15)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217050500 +0800" stop="20260217051700 +0800">
-		<title lang="zh">喜羊羊狂野新宇宙(27)</title>
+	<programme channel="嘉佳卡通" start="20260219050900 +0800" stop="20260219052200 +0800">
+		<title lang="zh">喜羊羊奇侠大营救(16)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217051700 +0800" stop="20260217052900 +0800">
-		<title lang="zh">喜羊羊狂野新宇宙(28)</title>
+	<programme channel="嘉佳卡通" start="20260219052200 +0800" stop="20260219053400 +0800">
+		<title lang="zh">喜羊羊奇侠大营救(17)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217052900 +0800" stop="20260217054100 +0800">
-		<title lang="zh">喜羊羊狂野新宇宙(29)</title>
+	<programme channel="嘉佳卡通" start="20260219053400 +0800" stop="20260219055300 +0800">
+		<title lang="zh">喜羊羊奇侠大营救(18)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217054100 +0800" stop="20260217055400 +0800">
-		<title lang="zh">喜羊羊狂野新宇宙(30)</title>
+	<programme channel="嘉佳卡通" start="20260219055300 +0800" stop="20260219060100 +0800">
+		<title lang="zh">萌鸡小队Ⅴ(3)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217055400 +0800" stop="20260217060000 +0800">
-		<title lang="zh">萌鸡小队Ⅴ(1)</title>
+	<programme channel="嘉佳卡通" start="20260219060100 +0800" stop="20260219061200 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅷ(1)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217060000 +0800" stop="20260217061100 +0800">
-		<title lang="zh">猪猪侠之竞速小英雄Ⅸ(11)</title>
+	<programme channel="嘉佳卡通" start="20260219061200 +0800" stop="20260219062300 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅷ(2)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217061100 +0800" stop="20260217062200 +0800">
-		<title lang="zh">猪猪侠之竞速小英雄Ⅸ(12)</title>
+	<programme channel="嘉佳卡通" start="20260219062300 +0800" stop="20260219063400 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅷ(3)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217062200 +0800" stop="20260217063300 +0800">
-		<title lang="zh">猪猪侠之竞速小英雄Ⅸ(13)</title>
+	<programme channel="嘉佳卡通" start="20260219063400 +0800" stop="20260219064500 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅷ(4)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217063300 +0800" stop="20260217064400 +0800">
-		<title lang="zh">猪猪侠之竞速小英雄Ⅸ(14)</title>
+	<programme channel="嘉佳卡通" start="20260219064500 +0800" stop="20260219065600 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅷ(5)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217064400 +0800" stop="20260217065500 +0800">
-		<title lang="zh">猪猪侠之竞速小英雄Ⅸ(15)</title>
+	<programme channel="嘉佳卡通" start="20260219065600 +0800" stop="20260219070700 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅷ(6)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217065500 +0800" stop="20260217070600 +0800">
-		<title lang="zh">猪猪侠之竞速小英雄Ⅸ(16)</title>
+	<programme channel="嘉佳卡通" start="20260219070700 +0800" stop="20260219071800 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅷ(7)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217070600 +0800" stop="20260217071700 +0800">
-		<title lang="zh">猪猪侠之竞速小英雄Ⅸ(17)</title>
+	<programme channel="嘉佳卡通" start="20260219071800 +0800" stop="20260219072900 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅷ(8)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217071700 +0800" stop="20260217072800 +0800">
-		<title lang="zh">猪猪侠之竞速小英雄Ⅸ(18)</title>
+	<programme channel="嘉佳卡通" start="20260219072900 +0800" stop="20260219074000 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅷ(9)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217072800 +0800" stop="20260217073900 +0800">
-		<title lang="zh">猪猪侠之竞速小英雄Ⅸ(19)</title>
+	<programme channel="嘉佳卡通" start="20260219074000 +0800" stop="20260219075100 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅷ(10)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217073900 +0800" stop="20260217075000 +0800">
-		<title lang="zh">猪猪侠之竞速小英雄Ⅸ(20)</title>
+	<programme channel="嘉佳卡通" start="20260219075100 +0800" stop="20260219080000 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅷ(11)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217075000 +0800" stop="20260217080000 +0800">
-		<title lang="zh">猪猪侠之竞速小英雄Ⅸ(21)</title>
+	<programme channel="嘉佳卡通" start="20260219080000 +0800" stop="20260219080300 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅷ(11)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217080000 +0800" stop="20260217080200 +0800">
-		<title lang="zh">猪猪侠之竞速小英雄Ⅸ(21)</title>
+	<programme channel="嘉佳卡通" start="20260219080300 +0800" stop="20260219081400 +0800">
+		<title lang="zh">超级飞侠ⅩⅨ(11)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217080200 +0800" stop="20260217081300 +0800">
-		<title lang="zh">超级飞侠ⅩⅨ(1)</title>
+	<programme channel="嘉佳卡通" start="20260219081400 +0800" stop="20260219082500 +0800">
+		<title lang="zh">超级飞侠ⅩⅨ(12)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217081300 +0800" stop="20260217082400 +0800">
-		<title lang="zh">超级飞侠ⅩⅨ(2)</title>
+	<programme channel="嘉佳卡通" start="20260219082500 +0800" stop="20260219083600 +0800">
+		<title lang="zh">超级飞侠ⅩⅨ(13)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217082400 +0800" stop="20260217083500 +0800">
-		<title lang="zh">超级飞侠ⅩⅨ(3)</title>
+	<programme channel="嘉佳卡通" start="20260219083600 +0800" stop="20260219084700 +0800">
+		<title lang="zh">超级飞侠ⅩⅨ(14)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217083500 +0800" stop="20260217084600 +0800">
-		<title lang="zh">超级飞侠ⅩⅨ(4)</title>
+	<programme channel="嘉佳卡通" start="20260219084700 +0800" stop="20260219090000 +0800">
+		<title lang="zh">超级飞侠ⅩⅨ(15)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217084600 +0800" stop="20260217090100 +0800">
-		<title lang="zh">超级飞侠ⅩⅨ(5)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217090100 +0800" stop="20260217090800 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(1)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217090800 +0800" stop="20260217091600 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(2)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217091600 +0800" stop="20260217092300 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(3)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217092300 +0800" stop="20260217093200 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(4)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217093200 +0800" stop="20260217101800 +0800">
-		<title lang="zh">2026嘉佳卡通华夏少年春节晚会</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217101800 +0800" stop="20260217102500 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(5)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217102500 +0800" stop="20260217103400 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(6)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217103400 +0800" stop="20260217104200 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(7)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217104200 +0800" stop="20260217105200 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(8)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217105200 +0800" stop="20260217110200 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(9)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217110200 +0800" stop="20260217122000 +0800">
-		<title lang="zh">龙驹贺新岁全国少儿春节联欢晚会</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217122000 +0800" stop="20260217135800 +0800">
-		<title lang="zh">龙驹贺新岁全国少儿春节联欢晚会</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217135800 +0800" stop="20260217140600 +0800">
-		<title lang="zh">奶龙搞怪大作战(7)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217140600 +0800" stop="20260217150700 +0800">
-		<title lang="zh">天马行空嘉佳卡通少儿春节联欢会</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217150700 +0800" stop="20260217151400 +0800">
-		<title lang="zh">奶龙与小七之大战暴暴龙(1)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217151400 +0800" stop="20260217152300 +0800">
-		<title lang="zh">奶龙与小七之大战暴暴龙(2)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217152300 +0800" stop="20260217153100 +0800">
-		<title lang="zh">奶龙与小七之大战暴暴龙(3)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217153100 +0800" stop="20260217160400 +0800">
+	<programme channel="嘉佳卡通" start="20260219090000 +0800" stop="20260219093300 +0800">
 		<title lang="zh">2026马年新春大联欢</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217160400 +0800" stop="20260217161800 +0800">
-		<title lang="zh">喜羊羊古古怪界有古怪(13)</title>
+	<programme channel="嘉佳卡通" start="20260219093300 +0800" stop="20260219094500 +0800">
+		<title lang="zh">喜羊羊古古怪界有古怪(49)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217161800 +0800" stop="20260217163300 +0800">
-		<title lang="zh">喜羊羊古古怪界有古怪(14)</title>
+	<programme channel="嘉佳卡通" start="20260219094500 +0800" stop="20260219095900 +0800">
+		<title lang="zh">喜羊羊古古怪界有古怪(50)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217163300 +0800" stop="20260217164700 +0800">
-		<title lang="zh">喜羊羊古古怪界有古怪(15)</title>
+	<programme channel="嘉佳卡通" start="20260219095900 +0800" stop="20260219101200 +0800">
+		<title lang="zh">喜羊羊古古怪界有古怪(51)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217164700 +0800" stop="20260217170200 +0800">
-		<title lang="zh">喜羊羊古古怪界有古怪(16)</title>
+	<programme channel="嘉佳卡通" start="20260219101200 +0800" stop="20260219102600 +0800">
+		<title lang="zh">喜羊羊古古怪界有古怪(52)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217170200 +0800" stop="20260217171700 +0800">
-		<title lang="zh">喜羊羊古古怪界有古怪(17)</title>
+	<programme channel="嘉佳卡通" start="20260219102600 +0800" stop="20260219104100 +0800">
+		<title lang="zh">喜羊羊古古怪界有古怪(53)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217171700 +0800" stop="20260217172900 +0800">
-		<title lang="zh">喜羊羊古古怪界有古怪(18)</title>
+	<programme channel="嘉佳卡通" start="20260219104100 +0800" stop="20260219105300 +0800">
+		<title lang="zh">喜羊羊古古怪界有古怪(54)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217172900 +0800" stop="20260217174400 +0800">
-		<title lang="zh">喜羊羊古古怪界有古怪(19)</title>
+	<programme channel="嘉佳卡通" start="20260219105300 +0800" stop="20260219110800 +0800">
+		<title lang="zh">喜羊羊古古怪界有古怪(55)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217174400 +0800" stop="20260217180100 +0800">
-		<title lang="zh">喜羊羊古古怪界有古怪(20)</title>
+	<programme channel="嘉佳卡通" start="20260219110800 +0800" stop="20260219112000 +0800">
+		<title lang="zh">喜羊羊古古怪界有古怪(56)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217180100 +0800" stop="20260217180800 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(9)</title>
+	<programme channel="嘉佳卡通" start="20260219112000 +0800" stop="20260219113800 +0800">
+		<title lang="zh">喜羊羊古古怪界有古怪(57)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217180800 +0800" stop="20260217181700 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(10)</title>
+	<programme channel="嘉佳卡通" start="20260219113800 +0800" stop="20260219115100 +0800">
+		<title lang="zh">喜羊羊古古怪界有古怪(58)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217181700 +0800" stop="20260217182500 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(11)</title>
+	<programme channel="嘉佳卡通" start="20260219115100 +0800" stop="20260219120600 +0800">
+		<title lang="zh">喜羊羊古古怪界有古怪(59)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217182500 +0800" stop="20260217183400 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(12)</title>
+	<programme channel="嘉佳卡通" start="20260219120600 +0800" stop="20260219121800 +0800">
+		<title lang="zh">喜羊羊古古怪界有古怪(60)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217183400 +0800" stop="20260217184100 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(13)</title>
+	<programme channel="嘉佳卡通" start="20260219121800 +0800" stop="20260219123300 +0800">
+		<title lang="zh">喜羊羊古古怪界有古怪(1)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217184100 +0800" stop="20260217185100 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(14)</title>
+	<programme channel="嘉佳卡通" start="20260219123300 +0800" stop="20260219124700 +0800">
+		<title lang="zh">喜羊羊古古怪界有古怪(2)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217185100 +0800" stop="20260217190100 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(15)</title>
+	<programme channel="嘉佳卡通" start="20260219124700 +0800" stop="20260219130300 +0800">
+		<title lang="zh">喜羊羊古古怪界有古怪(3)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217190100 +0800" stop="20260217190800 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(16)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217190800 +0800" stop="20260217191800 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(17)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217191800 +0800" stop="20260217192600 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(34)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217192600 +0800" stop="20260217193500 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(35)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217193500 +0800" stop="20260217194300 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(36)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217194300 +0800" stop="20260217194800 +0800">
-		<title lang="zh">奶龙搞怪大作战(7)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217194800 +0800" stop="20260217200100 +0800">
-		<title lang="zh">迷你特工队之最强恐龙(12)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217200100 +0800" stop="20260217205900 +0800">
-		<title lang="zh">华童潮盟2026嘉佳卫视春节晚会</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217205900 +0800" stop="20260217214300 +0800">
-		<title lang="zh">2026嘉佳卡通华夏少年春节晚会</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217214300 +0800" stop="20260217215100 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(14)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217215100 +0800" stop="20260217215800 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(15)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217215800 +0800" stop="20260217220600 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(16)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217220600 +0800" stop="20260217221300 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(17)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217221300 +0800" stop="20260217222100 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(18)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217222100 +0800" stop="20260217222800 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(19)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217222800 +0800" stop="20260217223600 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(20)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217223600 +0800" stop="20260217224300 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(21)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217224300 +0800" stop="20260217225100 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(22)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217225100 +0800" stop="20260217225800 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(23)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217225800 +0800" stop="20260217230700 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(24)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217230700 +0800" stop="20260217231400 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(25)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217231400 +0800" stop="20260217232200 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(26)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217232200 +0800" stop="20260217232900 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(27)</title>
-	</programme>
-	<programme channel="嘉佳卡通" start="20260217232900 +0800" stop="20260217233700 +0800">
+	<programme channel="嘉佳卡通" start="20260219130300 +0800" stop="20260219131100 +0800">
 		<title lang="zh">奶龙搞怪大作战Ⅱ(28)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217233700 +0800" stop="20260217234400 +0800">
+	<programme channel="嘉佳卡通" start="20260219131100 +0800" stop="20260219132000 +0800">
 		<title lang="zh">奶龙搞怪大作战Ⅱ(29)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217234400 +0800" stop="20260217235200 +0800">
+	<programme channel="嘉佳卡通" start="20260219132000 +0800" stop="20260219133100 +0800">
 		<title lang="zh">奶龙搞怪大作战Ⅱ(30)</title>
 	</programme>
-	<programme channel="嘉佳卡通" start="20260217235200 +0800" stop="20260217235959 +0800">
+	<programme channel="嘉佳卡通" start="20260219133100 +0800" stop="20260219142700 +0800">
+		<title lang="zh">2026童悦九洲少儿春节联欢晚会</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219142700 +0800" stop="20260219153900 +0800">
+		<title lang="zh">2026童悦九洲少儿春节联欢晚会</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219153900 +0800" stop="20260219155100 +0800">
+		<title lang="zh">喜羊羊古古怪界有古怪(27)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219155100 +0800" stop="20260219160700 +0800">
+		<title lang="zh">喜羊羊古古怪界有古怪(28)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219160700 +0800" stop="20260219162200 +0800">
+		<title lang="zh">喜羊羊古古怪界有古怪(29)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219162200 +0800" stop="20260219163600 +0800">
+		<title lang="zh">喜羊羊古古怪界有古怪(30)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219163600 +0800" stop="20260219164800 +0800">
+		<title lang="zh">喜羊羊古古怪界有古怪(31)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219164800 +0800" stop="20260219170500 +0800">
+		<title lang="zh">喜羊羊古古怪界有古怪(32)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219170500 +0800" stop="20260219172000 +0800">
+		<title lang="zh">喜羊羊古古怪界有古怪(33)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219172000 +0800" stop="20260219173200 +0800">
+		<title lang="zh">喜羊羊古古怪界有古怪(34)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219173200 +0800" stop="20260219174700 +0800">
+		<title lang="zh">喜羊羊古古怪界有古怪(35)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219174700 +0800" stop="20260219180400 +0800">
+		<title lang="zh">喜羊羊古古怪界有古怪(36)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219180400 +0800" stop="20260219181200 +0800">
+		<title lang="zh">奶龙搞怪大作战Ⅱ(26)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219181200 +0800" stop="20260219182100 +0800">
+		<title lang="zh">奶龙搞怪大作战Ⅱ(27)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219182100 +0800" stop="20260219182800 +0800">
+		<title lang="zh">奶龙搞怪大作战Ⅱ(28)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219182800 +0800" stop="20260219183700 +0800">
+		<title lang="zh">奶龙搞怪大作战Ⅱ(29)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219183700 +0800" stop="20260219184500 +0800">
+		<title lang="zh">奶龙搞怪大作战Ⅱ(30)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219184500 +0800" stop="20260219185400 +0800">
 		<title lang="zh">奶龙搞怪大作战Ⅱ(31)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219185400 +0800" stop="20260219190400 +0800">
+		<title lang="zh">奶龙搞怪大作战Ⅱ(32)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219190400 +0800" stop="20260219191200 +0800">
+		<title lang="zh">奶龙搞怪大作战Ⅱ(33)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219191200 +0800" stop="20260219192200 +0800">
+		<title lang="zh">奶龙搞怪大作战Ⅱ(34)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219192200 +0800" stop="20260219193100 +0800">
+		<title lang="zh">奶龙搞怪大作战Ⅱ(40)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219193100 +0800" stop="20260219193900 +0800">
+		<title lang="zh">奶龙搞怪大作战Ⅱ(41)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219193900 +0800" stop="20260219194800 +0800">
+		<title lang="zh">奶龙搞怪大作战Ⅱ(42)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219194800 +0800" stop="20260219200200 +0800">
+		<title lang="zh">迷你特工队之最强恐龙(14)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219200200 +0800" stop="20260219201600 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅹ(1)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219201600 +0800" stop="20260219203100 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅹ(2)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219203100 +0800" stop="20260219204600 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅹ(3)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219204600 +0800" stop="20260219205900 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅹ(4)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219205900 +0800" stop="20260219211000 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅹ(5)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219211000 +0800" stop="20260219212100 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅹ(6)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219212100 +0800" stop="20260219213200 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅹ(7)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219213200 +0800" stop="20260219214300 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅹ(8)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219214300 +0800" stop="20260219215400 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅹ(9)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219215400 +0800" stop="20260219220500 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅹ(10)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219220500 +0800" stop="20260219221600 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅹ(11)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219221600 +0800" stop="20260219222700 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅹ(12)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219222700 +0800" stop="20260219223800 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅹ(13)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219223800 +0800" stop="20260219224900 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅹ(14)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219224900 +0800" stop="20260219230100 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅹ(15)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219230100 +0800" stop="20260219231200 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅹ(16)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219231200 +0800" stop="20260219232300 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅹ(17)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219232300 +0800" stop="20260219233400 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅹ(18)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219233400 +0800" stop="20260219234500 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅹ(19)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219234500 +0800" stop="20260219235600 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅹ(20)</title>
+	</programme>
+	<programme channel="嘉佳卡通" start="20260219235600 +0800" stop="20260219235959 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅹ(21)</title>
 	</programme>
 	<channel id="岭南戏曲">
 		<display-name lang="zh">岭南戏曲</display-name>
 	</channel>
-	<programme channel="岭南戏曲" start="20260217000000 +0800" stop="20260217060000 +0800">
+	<programme channel="岭南戏曲" start="20260219000000 +0800" stop="20260219060000 +0800">
 		<title lang="zh">精彩呈现</title>
 	</programme>
-	<programme channel="岭南戏曲" start="20260217060000 +0800" stop="20260217081800 +0800">
-		<title lang="zh">刁蛮公主戆驸马</title>
+	<programme channel="岭南戏曲" start="20260219060000 +0800" stop="20260219083900 +0800">
+		<title lang="zh">马福龙卖箭</title>
 	</programme>
-	<programme channel="岭南戏曲" start="20260217081800 +0800" stop="20260217082300 +0800">
-		<title lang="zh">资讯(844)</title>
+	<programme channel="岭南戏曲" start="20260219083900 +0800" stop="20260219084300 +0800">
+		<title lang="zh">戏人戏语(381)</title>
 	</programme>
-	<programme channel="岭南戏曲" start="20260217082300 +0800" stop="20260217082700 +0800">
-		<title lang="zh">趣谈广州话(1995)</title>
+	<programme channel="岭南戏曲" start="20260219084300 +0800" stop="20260219084800 +0800">
+		<title lang="zh">资讯(845)</title>
 	</programme>
-	<programme channel="岭南戏曲" start="20260217082700 +0800" stop="20260217093500 +0800">
-		<title lang="zh">潮剧春节特别节目(1)</title>
+	<programme channel="岭南戏曲" start="20260219084800 +0800" stop="20260219085200 +0800">
+		<title lang="zh">趣谈广州话(1998)</title>
 	</programme>
-	<programme channel="岭南戏曲" start="20260217093500 +0800" stop="20260217102200 +0800">
-		<title lang="zh">陈健超</title>
-	</programme>
-	<programme channel="岭南戏曲" start="20260217102200 +0800" stop="20260217114300 +0800">
-		<title lang="zh">广州总会场1月上半场</title>
-	</programme>
-	<programme channel="岭南戏曲" start="20260217114300 +0800" stop="20260217123400 +0800">
-		<title lang="zh">郭凤女荔枝颂</title>
-	</programme>
-	<programme channel="岭南戏曲" start="20260217123400 +0800" stop="20260217123900 +0800">
-		<title lang="zh">资讯(844)</title>
-	</programme>
-	<programme channel="岭南戏曲" start="20260217123900 +0800" stop="20260217124300 +0800">
-		<title lang="zh">趣谈广州话(1995)</title>
-	</programme>
-	<programme channel="岭南戏曲" start="20260217124300 +0800" stop="20260217131000 +0800">
-		<title lang="zh">济公传(12)</title>
-	</programme>
-	<programme channel="岭南戏曲" start="20260217131000 +0800" stop="20260217134100 +0800">
-		<title lang="zh">倪惠英</title>
-	</programme>
-	<programme channel="岭南戏曲" start="20260217134100 +0800" stop="20260217134600 +0800">
-		<title lang="zh">资讯(844)</title>
-	</programme>
-	<programme channel="岭南戏曲" start="20260217134600 +0800" stop="20260217135100 +0800">
-		<title lang="zh">趣谈广州话(1995)</title>
-	</programme>
-	<programme channel="岭南戏曲" start="20260217135100 +0800" stop="20260217161300 +0800">
-		<title lang="zh">刁蛮公主戆驸马</title>
-	</programme>
-	<programme channel="岭南戏曲" start="20260217161300 +0800" stop="20260217173900 +0800">
-		<title lang="zh">广州总会场1月下半场</title>
-	</programme>
-	<programme channel="岭南戏曲" start="20260217173900 +0800" stop="20260217174400 +0800">
-		<title lang="zh">资讯(844)</title>
-	</programme>
-	<programme channel="岭南戏曲" start="20260217174400 +0800" stop="20260217174800 +0800">
-		<title lang="zh">趣谈广州话(1995)</title>
-	</programme>
-	<programme channel="岭南戏曲" start="20260217174800 +0800" stop="20260217185200 +0800">
+	<programme channel="岭南戏曲" start="20260219085200 +0800" stop="20260219100100 +0800">
 		<title lang="zh">潮剧春节特别节目(2)</title>
 	</programme>
-	<programme channel="岭南戏曲" start="20260217185200 +0800" stop="20260217185700 +0800">
+	<programme channel="岭南戏曲" start="20260219100100 +0800" stop="20260219104800 +0800">
+		<title lang="zh">马年欢歌茶督撑新春特别节目2</title>
+	</programme>
+	<programme channel="岭南戏曲" start="20260219104800 +0800" stop="20260219121700 +0800">
+		<title lang="zh">深圳会场</title>
+	</programme>
+	<programme channel="岭南戏曲" start="20260219121700 +0800" stop="20260219122100 +0800">
+		<title lang="zh">戏人戏语(381)</title>
+	</programme>
+	<programme channel="岭南戏曲" start="20260219122100 +0800" stop="20260219122600 +0800">
 		<title lang="zh">资讯(845)</title>
 	</programme>
-	<programme channel="岭南戏曲" start="20260217185700 +0800" stop="20260217190000 +0800">
-		<title lang="zh">趣谈广州话(1995)</title>
+	<programme channel="岭南戏曲" start="20260219122600 +0800" stop="20260219131600 +0800">
+		<title lang="zh">趣谈广州话(1998)</title>
 	</programme>
-	<programme channel="岭南戏曲" start="20260217190000 +0800" stop="20260217194700 +0800">
-		<title lang="zh">马年欢歌茶督撑新春特别节目1</title>
+	<programme channel="岭南戏曲" start="20260219131600 +0800" stop="20260219134200 +0800">
+		<title lang="zh">济公传(14)</title>
 	</programme>
-	<programme channel="岭南戏曲" start="20260217194700 +0800" stop="20260217215800 +0800">
-		<title lang="zh">粤剧表演艺术大全竣工庆典晚会</title>
+	<programme channel="岭南戏曲" start="20260219134200 +0800" stop="20260219134600 +0800">
+		<title lang="zh">戏人戏语(381)</title>
 	</programme>
-	<programme channel="岭南戏曲" start="20260217215800 +0800" stop="20260217220200 +0800">
-		<title lang="zh">戏人戏语(389)</title>
-	</programme>
-	<programme channel="岭南戏曲" start="20260217220200 +0800" stop="20260217220900 +0800">
+	<programme channel="岭南戏曲" start="20260219134600 +0800" stop="20260219135100 +0800">
 		<title lang="zh">资讯(845)</title>
 	</programme>
-	<programme channel="岭南戏曲" start="20260217220900 +0800" stop="20260217225900 +0800">
-		<title lang="zh">柳毅奇缘</title>
+	<programme channel="岭南戏曲" start="20260219135100 +0800" stop="20260219135500 +0800">
+		<title lang="zh">趣谈广州话(1998)</title>
+	</programme>
+	<programme channel="岭南戏曲" start="20260219135500 +0800" stop="20260219173300 +0800">
+		<title lang="zh">姹紫嫣红春满园——粤港澳名家新年演唱会</title>
+	</programme>
+	<programme channel="岭南戏曲" start="20260219173300 +0800" stop="20260219173700 +0800">
+		<title lang="zh">戏人戏语(381)</title>
+	</programme>
+	<programme channel="岭南戏曲" start="20260219173700 +0800" stop="20260219174200 +0800">
+		<title lang="zh">资讯(845)</title>
+	</programme>
+	<programme channel="岭南戏曲" start="20260219174200 +0800" stop="20260219174700 +0800">
+		<title lang="zh">趣谈广州话(1998)</title>
+	</programme>
+	<programme channel="岭南戏曲" start="20260219174700 +0800" stop="20260219185100 +0800">
+		<title lang="zh">潮剧春节特别节目(4)</title>
+	</programme>
+	<programme channel="岭南戏曲" start="20260219185100 +0800" stop="20260219185600 +0800">
+		<title lang="zh">资讯(845)</title>
+	</programme>
+	<programme channel="岭南戏曲" start="20260219185600 +0800" stop="20260219190000 +0800">
+		<title lang="zh">趣谈广州话(1998)</title>
+	</programme>
+	<programme channel="岭南戏曲" start="20260219190000 +0800" stop="20260219194500 +0800">
+		<title lang="zh">马年欢歌茶督撑新春特别节目3</title>
+	</programme>
+	<programme channel="岭南戏曲" start="20260219194500 +0800" stop="20260219205200 +0800">
+		<title lang="zh">让稀有剧种火起来</title>
+	</programme>
+	<programme channel="岭南戏曲" start="20260219205200 +0800" stop="20260219205700 +0800">
+		<title lang="zh">资讯(845)</title>
+	</programme>
+	<programme channel="岭南戏曲" start="20260219205700 +0800" stop="20260219210100 +0800">
+		<title lang="zh">趣谈广州话(1998)</title>
+	</programme>
+	<programme channel="岭南戏曲" start="20260219210100 +0800" stop="20260219233400 +0800">
+		<title lang="zh">湾区同心圆礼赞新时代粤港澳大湾区粤曲交响音乐会</title>
+	</programme>
+	<programme channel="岭南戏曲" start="20260219233400 +0800" stop="20260219233900 +0800">
+		<title lang="zh">资讯(845)</title>
+	</programme>
+	<programme channel="岭南戏曲" start="20260219233900 +0800" stop="20260219234400 +0800">
+		<title lang="zh">趣谈广州话(1998)</title>
+	</programme>
+	<programme channel="岭南戏曲" start="20260219234400 +0800" stop="20260219235959 +0800">
+		<title lang="zh">白蛇传情</title>
 	</programme>
 </tv>
