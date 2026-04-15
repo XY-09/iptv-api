@@ -1,6 +1,10 @@
-Category: 📡卫视频道, Name: 广东卫视, Total: 10, Valid: 10, Valid Percent: 100.00%, Whitelist: 0, IPv4: 10, IPv6: 0, Min Delay: 25 ms, Max Speed: 192.34 M/s, Avg Speed: 52.03 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 嘉佳卡通, Total: 3, Valid: 3, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 1, Min Delay: 44 ms, Max Speed: 26.47 M/s, Avg Speed: 17.91 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 广东嘉佳卡通高清, Total: 3, Valid: 3, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 1, Min Delay: 44 ms, Max Speed: 26.47 M/s, Avg Speed: 17.91 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 嘉佳卡通高清, Total: 3, Valid: 3, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 1, Min Delay: 44 ms, Max Speed: 26.47 M/s, Avg Speed: 17.91 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 陕西卫视, Total: 14, Valid: 14, Valid Percent: 100.00%, Whitelist: 0, IPv4: 7, IPv6: 7, Min Delay: 23 ms, Max Speed: 26.47 M/s, Avg Speed: 15.13 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 山西卫视, Total: 8, Valid: 8, Valid Percent: 100.00%, Whitelist: 0, IPv4: 7, IPv6: 1, Min Delay: 8 ms, Max Speed: 26.47 M/s, Avg Speed: 17.01 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 广东卫视, Total: 12, Valid: 12, Valid Percent: 100.00%, Whitelist: 0, IPv4: 12, IPv6: 0, Min Delay: 150 ms, Max Speed: 48.22 M/s, Avg Speed: 10.56 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 广东珠江, Total: 16, Valid: 12, Valid Percent: 75.00%, Whitelist: 0, IPv4: 14, IPv6: 2, Min Delay: 406 ms, Max Speed: 32.63 M/s, Avg Speed: 5.57 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 广东新闻, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 2615 ms, Max Speed: 0.85 M/s, Avg Speed: 0.85 M/s, Max Resolution: 1280x720
+Category: 📡卫视频道, Name: 嘉佳卡通, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 150 ms, Max Speed: 7.01 M/s, Avg Speed: 7.01 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 广东珠江超清, Total: 8, Valid: 6, Valid Percent: 75.00%, Whitelist: 0, IPv4: 7, IPv6: 1, Min Delay: 406 ms, Max Speed: 32.63 M/s, Avg Speed: 5.57 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 广东珠江高清, Total: 8, Valid: 6, Valid Percent: 75.00%, Whitelist: 0, IPv4: 7, IPv6: 1, Min Delay: 406 ms, Max Speed: 32.63 M/s, Avg Speed: 5.57 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 广东嘉佳卡通高清, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 150 ms, Max Speed: 7.01 M/s, Avg Speed: 7.01 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 嘉佳卡通高清, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 150 ms, Max Speed: 7.01 M/s, Avg Speed: 7.01 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 陕西卫视, Total: 13, Valid: 13, Valid Percent: 100.00%, Whitelist: 0, IPv4: 7, IPv6: 6, Min Delay: 107 ms, Max Speed: 7.01 M/s, Avg Speed: 3.70 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 山西卫视, Total: 8, Valid: 8, Valid Percent: 100.00%, Whitelist: 0, IPv4: 8, IPv6: 0, Min Delay: 39 ms, Max Speed: 7.01 M/s, Avg Speed: 4.22 M/s, Max Resolution: 1920x1080
