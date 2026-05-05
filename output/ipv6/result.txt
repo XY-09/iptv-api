@@ -1,11 +1,15 @@
 🕘️更新时间,#genre#
-2026-05-03 18:51:56,http://r.jdshipin.com/sE5vO$订阅源
+2026-05-05 19:15:07,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj$订阅源
 
 📡卫视频道,#genre#
+广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj$订阅源
+广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj$订阅源
 广东珠江,http://r.jdshipin.com/sE5vO$订阅源
 广东珠江,http://r.jdshipin.com/sE5vO$订阅源
 广东体育,http://r.jdshipin.com/LiYdg$订阅源
+广东珠江超清,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj$订阅源
 广东珠江超清,http://r.jdshipin.com/sE5vO$订阅源
+广东珠江高清,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj$订阅源
 广东珠江高清,http://r.jdshipin.com/sE5vO$订阅源
 陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=ac84c97dd81618cf2a8e4a9d33f1d29961c35a2c55c03702427fbd5a28ba1a3e5436de3a0e7c53e40b4d8c68cfd0827a614fc40283c8d0e64a79e05eeeb3398317650d6eefe46b9c1f9e679c61$订阅源
 陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=ac84c97dd81618cf2a8e4a9d33f1d29961c35a2c55c03702427fbd5a28ba1a3e5436de3a0e7c53e40b4d8c68cfd0827a614fc40283c8d0e64a79e05eeeb3398317650d6eefe46b9c1f9e679c61$订阅源
