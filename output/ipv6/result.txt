@@ -1,11 +1,9 @@
 🕘️更新时间,#genre#
-2026-06-13 19:53:05,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj$订阅源
+2026-06-15 23:43:07,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj$订阅源
 
 📡卫视频道,#genre#
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj$订阅源
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj$订阅源
-广东体育,http://r.jdshipin.com/LiYdg$订阅源
-广东体育,http://r.jdshipin.com/LiYdg$订阅源
 广东经济,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=Vw0hlP&tk=zUr4K92Dl6kh$订阅源
 广东经济,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=Vw0hlP&tk=zUr4K92Dl6kh$订阅源
 广东影视,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=BEitaP&tk=zUr4K92Dl6kh$订阅源
